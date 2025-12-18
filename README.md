@@ -60,21 +60,9 @@ I specialize in **modernizing legacy systems** and building scalable cloud solut
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosTangarife&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosTangarife&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=D4AF37)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=carlosTangarife&theme=dark&hide_border=true&background=0a0a0a&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37)
-
-</div>
-
----
-
 ## 💼 Currently Working On
+
+**Senior Software Engineer** at **Sombra** · Client: **CampMinder (USA)**
 
 - 🔄 Modernizing legacy camp management platform (CampMinder)
 - 🏗️ Building internal package ecosystem with Turborepo
@@ -83,19 +71,58 @@ I specialize in **modernizing legacy systems** and building scalable cloud solut
 
 ---
 
-## 📈 Recent Activity
+## 🎯 Core Expertise
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### Legacy System Modernization
+Transforming complex legacy systems into modern, scalable architectures. Reduced 160 .NET projects to 85 through systematic refactoring and clean architecture principles.
+
+### Cloud Architecture
+Expert in AWS & Azure cloud solutions. Reduced infrastructure costs by 70% while improving performance through strategic optimization.
+
+### Full-Stack Development
+11+ years building scalable applications with React, Angular, Node.js, and .NET Core. Delivered solutions serving 3M+ active users.
+
+### DevOps & Quality Assurance
+Established CI/CD practices from ground up. Achieved 95%+ code coverage with comprehensive test automation, reducing bug rate by 70%.
+
+### AI-Assisted Development
+Pioneering AI tools (Cursor, ChatGPT) to increase delivery speed by 40% while maintaining code quality and best practices.
+
+---
+
+## 📚 Methodologies & Practices
+
+- **Clean Architecture** & **SOLID Principles**
+- **Domain-Driven Design (DDD)**
+- **Microservices Architecture**
+- **Test-Driven Development (TDD)**
+- **Behavior-Driven Development (BDD)**
+- **Agile/Scrum** methodologies
+- **Code Review** & **Pair Programming**
+- **Feature Flags** & **A/B Testing**
 
 ---
 
 ## 🌟 Featured Projects
 
 ### [Portfolio Website](https://github.com/carlosTangarife/carlos-tangarife-portfolio)
-Professional portfolio showcasing 11+ years of software engineering excellence. Built with vanilla HTML/CSS/JS and hosted on AWS.
+Professional portfolio showcasing 11+ years of software engineering excellence. Built with vanilla HTML/CSS/JS and hosted on AWS CloudFront + S3.
 
 **Live**: [carlostangarife.com](https://carlostangarife.com)
+
+**Tech**: HTML5, CSS3, JavaScript, AWS S3, CloudFront, Route 53, SSL/TLS
+
+---
+
+## 💡 What I Bring to Your Team
+
+- **Proven Track Record**: 11+ years delivering measurable business impact
+- **Technical Leadership**: Led architecture decisions for enterprise-scale applications
+- **Cost Optimization**: Reduced infrastructure costs by 70% while improving performance
+- **Modernization Expertise**: Specialized in transforming legacy systems
+- **AI Innovation**: Early adopter of AI-assisted development tools
+- **Quality Focus**: Established testing cultures achieving 95%+ code coverage
+- **Business Alignment**: Technical decisions driven by business value
 
 ---
 
