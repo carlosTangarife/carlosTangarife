@@ -172,6 +172,21 @@ Pioneering AI tools (Cursor, ChatGPT) to increase delivery speed by 40% while ma
 
 ---
 
+### 🏕️ CampMinder Platform (Current Project)
+**Camp Management Software Platform** - Legacy modernization for US-based client
+
+- Leading modernization initiatives for legacy camp management platform
+- Reduced 160 legacy .NET projects to 85 (~47% reduction) through systematic refactoring
+- Architected Communication Hub (CMS platform) for multi-channel messaging via Twilio
+- Built internal package ecosystem with Turborepo enabling code reuse across 10+ applications
+- Pioneered AI adoption initiative increasing delivery speed by 40%
+- Implementing advanced data caching strategies with React Query
+- Designing complex menu systems with granular permissions and feature flags (ConfigCat)
+
+**Tech**: React, TypeScript, Vite, Chakra UI, React Query, .NET 8, Azure DevOps, Docker, Turborepo, Twilio, ConfigCat, Cursor AI
+
+---
+
 ### 🏋️ Blink Fitness Platform (3M+ Users)
 **Nationwide gym chain platform** - Mission-critical mobile and web applications
 
