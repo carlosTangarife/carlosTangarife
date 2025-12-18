@@ -160,20 +160,63 @@ Pioneering AI tools (Cursor, ChatGPT) to increase delivery speed by 40% while ma
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Notable Projects & Case Studies
 
-<div align="center">
-
-### [🎨 Portfolio Website](https://github.com/carlosTangarife/carlos-tangarife-portfolio)
-
+### 🎨 [Portfolio Website](https://github.com/carlosTangarife/carlos-tangarife-portfolio)
 **Professional portfolio showcasing 11+ years of software engineering excellence**
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-carlostangarife.com-D4AF37?style=for-the-badge)](https://carlostangarife.com)
 [![GitHub](https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/carlosTangarife/carlos-tangarife-portfolio)
 
-**Tech Stack**: HTML5, CSS3, JavaScript, AWS S3, CloudFront, Route 53, SSL/TLS
+**Tech**: HTML5, CSS3, JavaScript, AWS S3, CloudFront, Route 53, SSL/TLS
 
-</div>
+---
+
+### 🏋️ Blink Fitness Platform (3M+ Users)
+**Nationwide gym chain platform** - Mission-critical mobile and web applications
+
+- Reduced 200 AWS Lambda functions to 60 (70% reduction) while improving performance
+- Built Crowd Tracker for real-time gym occupancy monitoring
+- Architected dual-CMS platform (WordPress + Contentful) for dynamic content delivery
+- Implemented comprehensive test automation with 85%+ code coverage
+
+**Tech**: Angular, Ionic, Node.js, AWS Lambda, DynamoDB, TypeScript, Serverless
+
+---
+
+### 🏢 Renting Colombia (15 Interconnected Apps)
+**Leading vehicle leasing provider** - Unified ecosystem architecture
+
+- Led standardization creating shared Angular library with Material Design
+- Improved performance by 80% with infinite scrolling and lazy loading
+- Redesigned cross-application authentication with Azure AD B2C
+- Reduced development time by 50% through shared component library
+
+**Tech**: Angular, TypeScript, .NET Core, Azure AD B2C, MSAL, SignalR, Microservices
+
+---
+
+### 🛒 Venndelo Marketplace
+**Web marketplace** replacing legacy PHP systems
+
+- Mastered Webpack combining legacy AngularJS with Vue.js Web Components
+- Established NestJS backend with Clean Architecture and TypeORM
+- Implemented automated E2E testing with Twine and Gherkin
+- Packaged every UI element as reusable Web Component
+
+**Tech**: Webpack, Vue.js, Web Components, NestJS, TypeORM, PostgreSQL, Storybook
+
+---
+
+### 💳 CFA Credit Scoring Platform
+**Dynamic credit scoring** with runtime-configurable variables
+
+- Designed configurable scoring engine allowing stakeholders to define formulas
+- Established DevOps automation framework with Jenkins and SonarQube
+- Achieved 95%+ code coverage and reduced bug rate by 70%
+- Transformed legacy documentation-driven process into Agile cycles
+
+**Tech**: C#, .NET Core, Angular, TypeScript, Jenkins, SonarQube
 
 ---
 
@@ -190,8 +233,40 @@ Pioneering AI tools (Cursor, ChatGPT) to increase delivery speed by 40% while ma
 | **🤖 AI Innovation** | Early adopter of AI-assisted development tools |
 | **✅ Quality Focus** | Established testing cultures achieving 95%+ code coverage |
 | **💼 Business Alignment** | Technical decisions driven by business value |
+| **👥 Team Collaboration** | Effective cross-functional collaboration and mentorship |
+| **📚 Knowledge Sharing** | Documentation, mentorship, and team empowerment |
 
 </div>
+
+---
+
+## 🎓 Education & Languages
+
+<div align="center">
+
+| Education | Institution | Period |
+|:---:|:---:|:---:|
+| **Systems and Telecommunications Engineering** | University of Manizales | 2016 - 2020 |
+| **Technology in Computer Systems** | Caldas University | 2012 - 2015 |
+
+| Language | Proficiency |
+|:---:|:---:|
+| 🇨🇴 **Spanish** | Native |
+| 🇺🇸 **English** | B2 (Upper Intermediate / Professional Working Proficiency) |
+
+</div>
+
+---
+
+## 🌟 Leadership & Soft Skills
+
+- **Highly Motivated**: Proven track record of exceeding expectations
+- **Team Player**: Effective cross-functional collaboration experience
+- **Continuous Learner**: Rapidly adapts to new technologies and concepts
+- **Strong Communication**: Bridges technical and business stakeholders
+- **Proactive & Organized**: Excellent time management and delivery
+- **Mentorship**: Coaches junior developers and establishes best practices
+- **Client-Facing**: Translates business requirements into technical solutions
 
 ---
 
